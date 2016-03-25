@@ -8,4 +8,4 @@ Usage
 
 Example
 -------
-![SIR Model](./sir.png)
+![SIR Model](./SIR.png)
