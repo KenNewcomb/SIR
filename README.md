@@ -8,6 +8,11 @@ S, I, and R represent the number of individuals that are suceptible to, infected
 Beta controls the infection rate. 
 Gamma controls the immunity rate.
 
+
+Equations
+---------
+![SIR Equations](./equations.png)
+
 ## Usage
 
 	python3 sir.py beta gamma s0 i0 r0 dt timesteps
